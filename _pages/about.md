@@ -26,8 +26,14 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a second-year Ph.D. student in the Computer Science department at Carnegie Mellon University, where I am fortunate to be advised by [Nina Balcan](https://www.cs.cmu.edu/~ninamf/).
+
+Previously, I graduated from UC Berkeley, where I majored in Electrical Engineering & Computer Science. I am thankful to a number of mentors I met during my undergrad, who have supported my career, including [Ellen Vitercik](https://vitercik.github.io/), [Nika Haghtalab](https://people.eecs.berkeley.edu/~nika/), and [Vasilis Syrgkanis](https://vsyrgkanis.com/).
+
+My research interests lie broadly in the intersection of AI and theoretical computer science. Specifically, I draw on tools from learning theory, algorithmic game theory, economics, and optimization to understand how incentives affect learning, interaction, and decision-making in multi-agent, strategic environments.
+
+<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
