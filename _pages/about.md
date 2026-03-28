@@ -26,9 +26,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a second-year Ph.D. student in the Computer Science department at Carnegie Mellon University, where I am fortunate to be advised by [Nina Balcan](https://www.cs.cmu.edu/~ninamf/).
+I am a second-year Ph.D. student in the Computer Science department at Carnegie Mellon University, where I am fortunate to be advised by [Nina Balcan](https://www.cs.cmu.edu/~ninamf/). My research is supported in part by the [Cooperative AI PhD Fellowship](https://www.cooperativeai.com/post/announcing-the-2026-cooperative-ai-phd-fellows).
 
-Previously, I graduated from UC Berkeley, where I majored in Electrical Engineering & Computer Science. I am thankful to a number of mentors I met during my undergrad, who have supported my career, including [Ellen Vitercik](https://vitercik.github.io/), [Nika Haghtalab](https://people.eecs.berkeley.edu/~nika/), and [Vasilis Syrgkanis](https://vsyrgkanis.com/).
+Previously, I graduated from UC Berkeley, where I majored in Electrical Engineering & Computer Science. I am thankful to a number of mentors I met during my undergrad, including [Ellen Vitercik](https://vitercik.github.io/), [Nika Haghtalab](https://people.eecs.berkeley.edu/~nika/), and [Vasilis Syrgkanis](https://vsyrgkanis.com/).
 
 My research interests lie broadly in the intersection of AI and theoretical computer science. Specifically, I draw on tools from learning theory, algorithmic game theory, economics, and optimization to understand how incentives affect learning, interaction, and decision-making in multi-agent, strategic environments.
 
