@@ -25,6 +25,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-will-be-attending-acorn-25",
           title: 'I will be attending ACORN’25.',
           description: "",
+          section: "News",},{id: "news-grateful-to-be-awarded-the-cooperative-ai-phd-fellowship",
+          title: 'Grateful to be awarded the Cooperative AI PhD Fellowship.',
+          description: "",
           section: "News",},{
         id: 'social-scholar',
         title: 'Google Scholar',
