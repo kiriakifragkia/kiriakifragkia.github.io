@@ -28,7 +28,7 @@ body.sticky-bottom-footer {
 }
 
 .container {
-  max-width: 100%;
+  max-width: $max-content-width;
 }
 
 // Profile
@@ -44,7 +44,17 @@ body.sticky-bottom-footer {
  * Publications
  ******************************************************************************/
 
-// TODO: redefine publications layout.
+ .publications,
+ .bibliography {
+   max-width: 100%;
+   width: 100%;
+ }
+
+ .bibliography .author {
+   white-space: normal !important;
+   overflow: visible !important;
+   text-overflow: unset !important;
+ }
 
 /*****************************************************************************
 * Projects
