@@ -28,6 +28,12 @@ ninja.data = [{
           section: "News",},{id: "news-grateful-to-be-awarded-the-cooperative-ai-phd-fellowship",
           title: 'Grateful to be awarded the Cooperative AI PhD Fellowship.',
           description: "",
+          section: "News",},{id: "news-our-paper-learning-in-structured-stackelberg-games-was-accepted-as-a-spotlight-presentation-to-icml-26",
+          title: 'Our paper, “Learning in Structured Stackelberg Games”, was accepted as a Spotlight Presentation...',
+          description: "",
+          section: "News",},{id: "news-our-papers-the-complexity-of-equilibrium-refinements-in-potential-games-and-the-complexity-of-proper-equilibrium-in-extensive-form-and-polytope-games-were-accepted-to-ec-26",
+          title: 'Our papers, “The Complexity of Equilibrium Refinements in Potential Games” and “The Complexity...',
+          description: "",
           section: "News",},{
         id: 'social-scholar',
         title: 'Google Scholar',
